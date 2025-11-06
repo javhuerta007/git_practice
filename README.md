@@ -1,4 +1,1 @@
-Jav
-Fecha: 2025-11-03
-
-Objeto: Practica Git
+Prácticas de Linux - Jav - jue 06 nov 2025 15:34:23 CST
