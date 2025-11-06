@@ -1,0 +1,4 @@
+# Ignorar logs y archivos temporales
+proc_monitor/logs/
+*.log
+*.tmp
